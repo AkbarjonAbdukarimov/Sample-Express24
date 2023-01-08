@@ -9,3 +9,11 @@ img{width: 25px;}
 .map-placeholder:hover{background-color: #dfdfe2;}
 p{font-size: 14px;
  padding: 11px 12px;}
+
+ @media( max-width:1000px) {
+    .map-placeholder{
+    
+        background-color: #fff;
+        border: none;
+    }
+}

@@ -2,7 +2,7 @@ import { categories, populateRestaurants } from "../restaurants"
 import { useEffect, useState } from "react"
 import Heart from '../images/Heart.svg'
 import './Restaurants.css'
-const Res = populateRestaurants();
+
 export const Restaurants = () => {
     const [restaurants, setRestaurants] = useState([])
     const [org, setOrg] = useState([])
@@ -29,6 +29,7 @@ export const Restaurants = () => {
                     {categories.slice(0, 8).map(c => {
                         return <><div onClick={handleLinks} className="mx-2 links">{c}</div></>
                     })}</div>
+
                 <div className="mx-2  links">More</div>
             </div> */}
             <div className="row justify-content-evenly products mb-5">
