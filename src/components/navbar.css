@@ -1,0 +1,14 @@
+.nav-container
+{border: 1px solid #e5e5eb8f;
+border-top: none;
+border-left: none;
+width: 85%;}
+.profile{
+    cursor: pointer;
+}
+.profile img{
+    width: 35px;
+    border: 1px solid;
+    border-radius: 12px;
+    margin-bottom: 5px;
+}

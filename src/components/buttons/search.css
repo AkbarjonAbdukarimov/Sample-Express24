@@ -1,7 +1,7 @@
-img{width: 15px;}
+.search-icon{width: 15px;}
 input, input:focus{
     border:none;
-     outline: none;
+    outline: none;
 }
 .search-btn{  
     color: #1a1a18;

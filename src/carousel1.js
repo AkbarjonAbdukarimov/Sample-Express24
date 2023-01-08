@@ -1,0 +1,28 @@
+export const carousel = [
+    { image: 'c1.jpg' },
+    { image: 'c2.jpg' },
+    { image: 'c3.jpg' },
+    { image: 'c1.jpg' },
+    { image: 'c2.jpg' },
+    { image: 'c3.jpg' },
+    { image: 'c1.jpg' },
+    { image: 'c2.jpg' },
+    { image: 'c3.jpg' },
+    { image: 'c1.jpg' },
+    { image: 'c2.jpg' },
+    { image: 'c3.jpg' },
+]
+export const cardCarousel = [
+    { image: 'c1.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c2.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c3.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c1.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c2.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c3.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c1.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c2.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c3.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c1.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c2.jpg', title: "Example", desc: "some dummy text" },
+    { image: 'c3.jpg', title: "Example", desc: "some dummy text" },
+]

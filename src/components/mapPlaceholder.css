@@ -1,0 +1,11 @@
+img{width: 25px;}
+.map-placeholder{
+    background-color: #ECECF1;
+    border-color: #ECECF1;
+     font-size: 14px;
+     transition: 500ms;
+     cursor: pointer;
+}
+.map-placeholder:hover{background-color: #dfdfe2;}
+p{font-size: 14px;
+ padding: 11px 12px;}

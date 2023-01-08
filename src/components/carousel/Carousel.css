@@ -1,0 +1,33 @@
+.card  {
+    border: none !important;
+    border-radius: 12px !important;
+    
+}
+.card img{
+    border-radius: 12px !important;
+}
+.swiper-button-next, .swiper-button-prev{
+    
+    position: absolute;
+    
+} 
+.swiper-button-prev{
+    left: -8px;
+}
+.swiper-button-next{
+    right: -8px;
+}
+.swiper-button-next:after, .swiper-button-prev:after {
+    width: 36px;
+    font-family: swiper-icons;
+    font-size: 14px;
+    text-transform: none!important;
+    letter-spacing: 0;
+    font-variant: initial;
+    line-height: 0;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    
+}

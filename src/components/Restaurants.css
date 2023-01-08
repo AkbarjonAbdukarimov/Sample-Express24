@@ -1,0 +1,41 @@
+.links{
+    max-width: 88px;
+    font-size: 14px;
+    line-height: 0.5;
+    background-color: #fff;
+    padding: 12px 14px;
+    border-radius: 12px;
+    transition: 300ms;
+    cursor: pointer;
+}
+.links:hover{
+    background-color: #d9d9eb7e;
+}
+/* .products .card {
+    max-width: 325px;
+   
+} */
+.products .card .card-img-top{
+    /* width: 320px; */
+    width: 100%;
+    height: 180px;
+}
+.like-button{
+    position: absolute;
+    z-index: 1;
+    top: 72%;
+    right: 10%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 300ms;
+    
+}
+.like-button:hover{
+    background-color:  #FF4D4F;;
+ }
+ .like-button-active{
+    background-color:  #FF4D4F;;
+ }
+ 
